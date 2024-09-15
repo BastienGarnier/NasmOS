@@ -1,0 +1,1 @@
+GLOBAL pic__init ; void -> void
